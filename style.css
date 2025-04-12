@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    outline: 1px solid red;
+    text-align: center;
+}
+
+
+.intro {
+    margin: 20px auto;
+    width: 500px;
+}
+
+.title {
+    text-align: center;
+}
+
+li {
+    margin: 20px auto;
+    width: 300px;
+}
+
+img {
+    display: block;
+    width: 512px;
+    height: 512px;
+}
+
+.chicken {
+    width: 512px;
+    height: 512px;
+    margin: 0 auto;
+}
+
+a {
+    display: block
+}
+
+  .buttons p{
+    display: inline-block;
+    margin-right: 10px
+  }
+
+.chicken-example img{
+    margin-top: 10px;
+    display: inline;
+    width: 98.5px;
+    height: 100px;
+  }
