@@ -21,13 +21,10 @@ section {
     width: 500px;
 }
 
-.title {
-    text-align: center;
-}
-
 li {
-    margin: 20px auto;
-    width: 300px;
+    margin: 10px auto;
+    max-width: 500px;
+    text-align: left;
 }
 
 img {
